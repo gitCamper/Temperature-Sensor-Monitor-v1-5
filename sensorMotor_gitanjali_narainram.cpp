@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+	// intialize variables outside of loop to hold throughout program
 	int option = 3;
 	double maxTemp = 0;
 	double minTemp = 0;
